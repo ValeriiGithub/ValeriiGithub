@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm Valerii</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Software developer</h3>
+
 <!---
 - 👋 Hi, I’m @ValeriiGithub
 - 👀 I’m interested in ...
@@ -12,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About
 
-* Creative Python developer with extensive experience in creating web applications, programs and scripts for automation of production processes;
+* Creative Python & Go developer with extensive experience in creating web applications, programs and scripts for automation of production processes;
 * I am dedicated to my work and strive to create high-quality software to meet the needs of the organization and users;
 * I have been developing for many years and have excellent teamwork skills and the ability to solve complex problems;
 * I am interested in news and thoughts from the IT sphere: I watch videos on YouTube channels of Timofey Hiryanov, Sergey Nemchinsky, Dmitry Avdeenko, channels "selfedu", "Ityborod", etc.;
