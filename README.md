@@ -92,3 +92,4 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 <!---
 ![Codewars](https://github.r2v.ch/codewars?user=ValeriiGithub)
 --->
+![](https://komarev.com/ghpvc/?username=ValeriiGithub)
