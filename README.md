@@ -89,7 +89,7 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 ![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
 --->
 
-## Badges
+
 <!---
 [![LeetCode Stats](https://leetcode.card.workers.dev/kaziamov?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/kaziamov/)
 [![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)](https://www.codewars.com/r/N0so6Q)
