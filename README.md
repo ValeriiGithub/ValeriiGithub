@@ -132,6 +132,7 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 
 **IDE**
 
+<img align="right" src="https://img.shields.io/badge/SQL_Alchemy-003545?logo=aqlalchemy&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
