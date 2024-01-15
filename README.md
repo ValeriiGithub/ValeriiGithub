@@ -93,3 +93,50 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 ![Codewars](https://github.r2v.ch/codewars?user=ValeriiGithub)
 --->
 ![](https://komarev.com/ghpvc/?username=ValeriiGithub)
+
+## Skills
+
+<!---**Programming**-->
+**Programming Languages**
+
+<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
+
+
+
+
+
+
+**Database**
+
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+
+
+**Operating Systems**
+
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+
+**IDE**
+
+<img align="right" src="https://img.shields.io/badge/LaTeX-47A141?logo=LaTeX&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
+<img align="right" src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
+
+
+**Frameworks & Library**
+
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+
+
+**Languages**
+
+<img align="right" src="https://img.shields.io/badge/English-B1-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
+<img align="right" src="https://img.shields.io/badge/Russian-mother tongue-green?logo=data:image/svg%2bxml;base64," />
+
+
+
+
