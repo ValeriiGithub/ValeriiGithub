@@ -1,4 +1,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/chatyranga)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-nizhegorodskii-350370119/)
 
 
 
@@ -131,7 +132,8 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 
 **IDE**
 
-
+<img align="right" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
 
 **Frameworks & Library**
@@ -142,7 +144,7 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 
 **Languages**
 
-<img align="right" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" />
 
 **ML/DL**
 
