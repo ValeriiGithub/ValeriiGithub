@@ -83,6 +83,11 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 <!---
 * LinkedIn: [Resume (EN)](https://www.linkedin.com/in/kaziamov)
 --->
+<!---
+## Resume
+[Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
+![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
+--->
 
 ## Badges
 <!---
@@ -90,8 +95,12 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 [![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)](https://www.codewars.com/r/N0so6Q)
 --->
 
+### Exercises LeetCode
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/ValeriiGithub?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/ValeriiGithub/)
+[![Valerii LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ValeriiGithub&theme=dark)](https://github.com/ValeriiGithub/leetcode-stats)
+<!---
+[![Valerii LeetCode Stats](https://leetcode.card.workers.dev/ValeriiGithub?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/ValeriiGithub/)
+--->
 
 [![CodeWars](https://www.codewars.com/users/ValeriiGithub/badges/large)](https://www.codewars.com/r/N0so6Q)
 <!---
