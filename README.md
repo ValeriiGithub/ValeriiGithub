@@ -1,3 +1,7 @@
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/chatyranga)
+
+
+
 <h1 align="center">Hi there, I'm <a href="https://t.me/chatyranga" target="_blank">Valerii</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software developer</h3>
@@ -92,33 +96,32 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 <!---
 ![Codewars](https://github.r2v.ch/codewars?user=ValeriiGithub)
 --->
-![](https://komarev.com/ghpvc/?username=ValeriiGithub)
+
 
 ## Skills
 
-<!---**Programming**-->
-**Programming Languages**
+<!---
+<img align="right" src="" />
+-->
 
+<img align="right" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
 
+**Programming Languages**
 
 
-
-
+<img align="right" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 
 **Database**
 
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-
-
-**Operating Systems**
 
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
+**Operating Systems**
 
-**IDE**
 
 <img align="right" src="https://img.shields.io/badge/LaTeX-47A141?logo=LaTeX&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
@@ -126,17 +129,21 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 <img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
 
+**IDE**
 
-**Frameworks & Library**
 
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
 
+**Frameworks & Library**
 
-**Languages**
 
 <img align="right" src="https://img.shields.io/badge/English-B1-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
 <img align="right" src="https://img.shields.io/badge/Russian-mother tongue-green?logo=data:image/svg%2bxml;base64," />
 
+**Languages**
 
+<img align="right" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
+**ML/DL**
 
+![](https://komarev.com/ghpvc/?username=ValeriiGithub)
