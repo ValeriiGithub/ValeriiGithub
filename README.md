@@ -94,8 +94,14 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 [![LeetCode Stats](https://leetcode.card.workers.dev/kaziamov?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/kaziamov/)
 [![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)](https://www.codewars.com/r/N0so6Q)
 --->
+<!---
+<details>
+<summary>📃 LeetCode&CodeWars</summary>
 
-### Exercises LeetCode
+</details>
+--->
+
+## LeetCode&CodeWars
 
 [![Valerii LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ValeriiGithub&theme=dark)](https://github.com/ValeriiGithub/leetcode-stats)
 <!---
@@ -106,6 +112,7 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 <!---
 ![Codewars](https://github.r2v.ch/codewars?user=ValeriiGithub)
 --->
+
 
 
 ## Skills
