@@ -117,7 +117,7 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 
 **Database**
 
-
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
