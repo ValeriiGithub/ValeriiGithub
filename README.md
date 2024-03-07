@@ -1,6 +1,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/chatyranga)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-nizhegorodskii-350370119/)
 
+<!---
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-nizhegorodskii-350370119/)
+--->
 
 
 <h1 align="center">Hi there, I'm <a href="https://t.me/chatyranga" target="_blank">Valerii</a>
