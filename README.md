@@ -6,7 +6,9 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://t.me/chatyranga" target="_blank">Valerii</a>
+ <!---
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+ --->
 <h3 align="center">Software developer</h3>
 
 <!---
@@ -21,6 +23,7 @@ ValeriiGithub/ValeriiGithub is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 ## About
 
 * Creative Python & Go developer with extensive experience in creating web applications, programs and scripts for automation of production processes;
@@ -33,6 +36,7 @@ Mark Lutz, Eric Mathis, Antonio Mele, Tony Gaddis, Aditya Bhargava, Robin Martin
 * I am engaged in cycling, I like to play chess, I read fiction and self-development books;
 * I am fond of Arduino;
 * I'm learning to play the accordion.
+--->
 
 <!---
 ## I’m currently working on
@@ -82,6 +86,7 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 
 ### Resume
 * HabrCareer: [Resume (RU)](https://career.habr.com/habrik_aureus)
+
 <!---
 * LinkedIn: [Resume (EN)](https://www.linkedin.com/in/kaziamov)
 --->
@@ -103,14 +108,20 @@ JSON             10 mins         ▒░░░░░░░░░░░░░░�
 </details>
 --->
 
+<!---
 ## LeetCode&CodeWars
 
 [![Valerii LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ValeriiGithub&theme=dark)](https://github.com/ValeriiGithub/leetcode-stats)
+--->
+
 <!---
 [![Valerii LeetCode Stats](https://leetcode.card.workers.dev/ValeriiGithub?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/ValeriiGithub/)
 --->
 
+<!---
 [![CodeWars](https://www.codewars.com/users/ValeriiGithub/badges/large)](https://www.codewars.com/r/N0so6Q)
+--->
+
 <!---
 ![Codewars](https://github.r2v.ch/codewars?user=ValeriiGithub)
 --->
